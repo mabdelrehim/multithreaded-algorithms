@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/Threads.dir/main.c.o CMakeFiles/Threads.dir/readInput.c.o CMakeFiles/Threads.dir/myfunctions.c.o  -o Threads 
